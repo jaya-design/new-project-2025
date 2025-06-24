@@ -56,7 +56,7 @@ export const portfolioData = {
       id: 1,
       title: "Mars Mission Simulation",
       description: "Participated in WhiteHat Jr Mission Mars Hackathon (July 2021). Collaborated with users to design a Mars mission simulation concept using beginner-level AI logic and design principles.",
-      image: "https://images.pexels.com/photos/73873/mars-mars-rover-space-travel-robot-73873.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://www.google.com/imgres?q=mars%20mission%20simulation%20game&imgurl=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2Fa5fgK9428EwVEy2FGiUXoG.png&imgrefurl=https%3A%2F%2Fwww.space.com%2Fmars-horizon-space-game-review&docid=qCZQL09Wzdx7gM&tbnid=TMUccde-7G1qZM&vet=12ahUKEwjnqK7OuImOAxURRmwGHcbeHU8QM3oECGYQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjnqK7OuImOAxURRmwGHcbeHU8QM3oECGYQAA",
       technologies: ["Python", "AI Logic", "Game Design", "Simulation"],
       liveUrl: "https://mars-mission-demo.com",
       githubUrl: "https://github.com/jaya-dev1/mars-mission",
